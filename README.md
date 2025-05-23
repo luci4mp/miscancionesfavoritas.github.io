@@ -18,9 +18,9 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 70 KB
 
-Fecha : 14/05/2025
+Fecha : 20/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
