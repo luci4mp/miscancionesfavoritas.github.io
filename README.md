@@ -1,7 +1,7 @@
 # Mis canciones favoritas
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
-## 1 Datos
+## 1. Datos
 Titulo : Mis canciones favoritas
 
 Web:https://luci4mp.github.io/miscancionesfavoritas.github.io/
