@@ -18,20 +18,13 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-Tamaño proyecto: 70 KB
+Tamaño proyecto: 72 KB
 
 Fecha : 20/05/2025
 
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
-
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+He creado un menú que nos lleva a dos aparatados, el primer aparatdo "Galería", en el cual hago un carrysel con los almbumes de mis canciones favoritas. En el segundo aparatado "Canciones" he puesto dos canciones a elegir con un seleccionador, una vez elegida la canción se puede subir o bajar el volumen con un botón deslizante.
 
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
