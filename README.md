@@ -8,56 +8,31 @@ Web:https://luci4mp.github.io/miscancionesfavoritas.github.io/
 
 Autor: Lucía Martín Pérez 
 
-Resumen : En este trabajo presento las canciones que más me gustan con imagenes de los albumes de las canciones, además de un apartado donde se puede elegir entre dos canciones para poner, dandole volumen o quitándoselo.
-
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
-
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Resumen : En este trabajo presento mis canciones favoritas a través de un carrusel con los albumes de las canciones que más me gustan, además podemos encontar otro apartado en el que  se puede, con un seleccinador, podemos elegir entre dos canciones para escuchar, con la opción de un deslizador para subir el volumen o bajáraselo.
 
 Tamaño proyecto: 72 KB
 
 Fecha : 20/05/2025
 
 ## 2. Memoria del proyecto
-### 2.1. Storyboard:
-He creado un menú que nos lleva a dos aparatados, el primer aparatdo "Galería", en el cual hago un carrysel con los almbumes de mis canciones favoritas. En el segundo aparatado "Canciones" he puesto dos canciones a elegir con un seleccionador, una vez elegida la canción se puede subir o bajar el volumen con un botón deslizante.
 
-### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+He creado un menú con dos aparatados, el primero "Galería", en el cual hago un carrusel con los albumes de mis canciones favoritas. En el segundo apartado "Canciones" he puesto dos canciones a elegir con un seleccionador, una vez elegida la canción se puede subir o bajar el volumen con un botón deslizante.
 
-## 3. Metodología
+## 3.  Objetivo / Metodología
 
-Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+1: Objetivo de este proyecto
 
-Este proyecto es interesante porque ...
+Este trabajo orientado a un publico interesado en la música y abierto a escuchar géneros musicales muy variados. Nos muestra a través de una estética llamativa y jovial, canciones y artistas originales pertenecientes a géneros de múisca muy diferentes, abriendo así la posibilidad al usuario de escuchar y descubrir música que anteriormente puede que no conociera. 
 
-Orientado a .. (Público)
+2: Desarrollo / Instrucciones para su uso
 
-Etapa 2: Desarrollo / actividades realizadas
-
-Video
 Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+En la primera escena contamos con dos bonotes que llevan a dos apartados, el de "Galería" y el de "Canciones", en el primero hay un carrusel con mis canciones favoritas, se puede pasar de una canción a otra con dos botones rosas en forma de estrella que están a los lados de las imagenes. En ambos apartados hay un botón de menú que permite volver a la escena principal. En el apartado de canciones, hay un seleccionador en el que se puede elegir la canción que se quiera, a la derecha de este hay un botón de play que nos permite reproducir la canción seleccionada, y por ultimo, hay un botón deslizador para subir o bajar el volumen de la música. 
+
+3: Problemas identificados
+En el apartado de "Canciones" el botón de subida o bajada de volumen tiene un fallo, ya que si se le da con la múisca ya puesta, esta dejara automaticamente de sonar, aun que realmente no se haya dejado de reproducirse. 
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-## 5 Referencias
-**Artículos y blogs **
-
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
-
-**Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+Es una buena manera compartir interese musicales y de descubrir y mostrar nueva música a otras personas. La única falla que le encuentro, y la cual me gustaría arreglar más adelante, es que el botón deslizador para subir y bajar el volumen no funciona correctamnete, ya que cuando etse se usa la múisca deja de sonar, aun que la canción continue reproduciendose. 
 
 Mayo 2025
